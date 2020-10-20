@@ -1,0 +1,9 @@
+#button {
+	font-size: 200%;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+#button:hover {
+	color: navy;   
+	text-decoration: underline;
+}
